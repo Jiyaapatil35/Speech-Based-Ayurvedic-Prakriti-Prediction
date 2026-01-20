@@ -54,5 +54,4 @@ cd speech-based-ayurvedic-prakriti-prediction
 pip install -r requirements.txt
 ````
 
-#### Ethical Note / Disclaimer
-This project is intended for academic and research purposes only. It does not replace professional Ayurvedic consultation or medical advice. Users should not rely solely on this tool for health or treatment decisions.
+**Note:** This project is intended for academic and research purposes only. It does not replace professional Ayurvedic consultation or medical advice. Users should not rely solely on this tool for health or treatment decisions.
