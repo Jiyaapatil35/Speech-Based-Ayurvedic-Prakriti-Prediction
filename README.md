@@ -1,9 +1,16 @@
 # Speech-Based Ayurvedic Prakriti Prediction
 
 ## Project Overview
-This project presents a machine learning based approach for predicting Ayurvedic Prakriti types — **Vata, Pitta, and Kapha** — using speech signal analysis. The work explores the feasibility of a non-invasive and objective computational method to support traditional Ayurvedic assessment.
+This project presents a machine learning–based approach for predicting Ayurvedic Prakriti types — **Vata, Pitta, and Kapha** — using speech signal analysis. The work explores the feasibility of a non-invasive and objective computational method to support traditional Ayurvedic assessment. The study demonstrates the potential of speech-based biomarkers as an assistive tool for objective Prakriti classification.
 
 The research was **conducted at KLE Technological University, Dr. M.S. Sheshgiri College of Engineering and Technology**, in collaboration with **Indian Institute of Information Technology, Dharwad (IIIT Dharwad).**.
+
+
+> **Academic Research Project | 5th Semester**  
+> **Duration:** September 2025 – January 2026  
+> **Team Size:** 4 Members  
+> **Technologies:** Python, Exploratory Data Analysis (EDA), Machine Learning, Deep Learning  
+
 
 ## Objectives
 - Analyze human speech signals for Prakriti classification  
@@ -25,7 +32,7 @@ The research was **conducted at KLE Technological University, Dr. M.S. Sheshgiri
    A Random Forest classifier with balanced class weights was trained on aggregated features.
 
 5. **Evaluation Strategy**  
-   - Student-level train–test split  
+   - Subject-level train–test split  
    - 5-fold GroupKFold cross-validation 
    - Comprehensive performance metrics  
 
